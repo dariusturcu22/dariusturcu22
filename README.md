@@ -1,14 +1,3 @@
-## Hi there 👋
-
-I'm Darius, a Computer Science student at **Babeș-Bolyai University** and a passionate **web developer**.  
-
-💻 I enjoy building **full-stack projects** and am currently focused on two apps:  
-- A **chat app** (MERN stack) — I’ve completed a barebones version  
-- A **rental app** (Next.js, Express, PostgreSQL) — currently in development and not yet published  
-
-⚙️ I’m always exploring ways to improve **performance**, **security**, and **real-time functionality**, as well as to add **new features** and **expand functionality** in my projects.
-
-
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
